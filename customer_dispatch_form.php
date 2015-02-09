@@ -559,7 +559,7 @@ function delete_photo(pid, original, thumbnail, disid)
 
 }
 </script>
-TEST INFORMATION
+
 <div align="center" id="dispatch_form"><input type="hidden" id="currentRO" />
 <table width="1200" border="0" cellpadding="0" cellspacing="0" id="cmsborder2" align="center">
 
